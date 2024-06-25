@@ -13,4 +13,4 @@ This is a simple GUI application for adjusting the color levels of an image usin
 1. Clone the repository:
 
    ```bash
-   https://github.com/bilallams/-image-color-adjuste.git
+   git clone https://github.com/bilallams/-image-color-adjuste.git
